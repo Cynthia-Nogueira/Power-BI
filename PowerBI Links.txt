@@ -1,0 +1,5 @@
+Links para acesso direto:
+
+Financeiro - https://app.powerbi.com/view?r=eyJrIjoiMDFjYTVhODMtOGU0ZS00MjEwLTk5NmMtZTJlZmZiMTg2MWQ5IiwidCI6IjYxZjI5NTNkLWEzY2QtNGRmZi1hMjZjLTRmZGE5ODY4NDUzNCIsImMiOjl9
+
+Vendas - https://app.powerbi.com/view?r=eyJrIjoiNTEzYTQ1YTUtODJlOS00YWIzLWJmMjUtMDZmOWJmNDM3MWIwIiwidCI6IjYxZjI5NTNkLWEzY2QtNGRmZi1hMjZjLTRmZGE5ODY4NDUzNCIsImMiOjl9
